@@ -13,7 +13,9 @@
   "CodePath": "/code/",
   "PackageReferences": [
     "thieves.terrortown",
-    "smartmario.classes_manager_ttt"
+    "smartmario.classes_manager_ttt",
+    "smartmario.ttt_grenades",
+    "smartmario.ttt_gun_of_evolution"
   ],
   "EditorReferences": null,
   "Metadata": {
