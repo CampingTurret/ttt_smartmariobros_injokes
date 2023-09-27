@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TTT_Classes;
 
-namespace Sandbox
+namespace TTT_Classes
 {
 	public class Seiichi : TTT_Class
 	{

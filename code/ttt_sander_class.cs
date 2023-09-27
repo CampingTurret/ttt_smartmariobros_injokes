@@ -24,11 +24,6 @@ namespace TTT_Classes
 		//Run on start
 		public override void RoundStartAbility()
 		{
-			//Entity.Inventory.DropItem( Entity.Inventory.GetSlot( 4 ) );
-			//if( Entity.Inventory.GetSlot( 4 )  != null )
-			//{
-			//	Entity.Inventory.GetSlot( 4 ).Delete();
-			//}
 			Add_Item_To_Player( new Turrets_Items.BigImpactGrenade() );
 		}
 	}

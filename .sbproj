@@ -7,7 +7,7 @@
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
-  "Resources": "",
+  "Resources": "\nui/weapons/venti_ult.png",
   "MenuResources": null,
   "HasCode": true,
   "CodePath": "/code/",
@@ -15,7 +15,8 @@
     "thieves.terrortown",
     "smartmario.classes_manager_ttt",
     "smartmario.ttt_grenades",
-    "smartmario.ttt_gun_of_evolution"
+    "smartmario.ttt_gun_of_evolution",
+    "sugmagaming.tester_glow_green"
   ],
   "EditorReferences": null,
   "Metadata": {
